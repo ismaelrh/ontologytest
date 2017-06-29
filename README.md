@@ -1,2 +1,0 @@
-# ontologytest
-To test pushing
