@@ -1726,4 +1726,1203 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="uses"/>
-    </Declarat
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="trackLength"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="victoryPercentageAsMgr"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="subprefecture"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="show"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Locomotive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Department"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="missions"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="officialSchoolColour"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="managementPlace"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="relation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="biome"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="volumes"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="quebecerTitle"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="administrativeCenter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="livingPlace"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="map"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/qatariRial"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/iraqiDinar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Stream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="TrainCarriage"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/laoKip"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="tempPlace"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Train"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="licenceNumber"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="freeProgScore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="RoadJunction"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="typeOfStorage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="statName"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="leaderName"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="ChemicalSubstance/density"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Anime"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="grayPage"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/samoanTala"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="nssdcId"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="isHandicappedAccessible"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="chef"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="review"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="teamCoached"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Planet/surfaceArea"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="lunarSurfaceTime"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="SpaceMission/lunarSampleMass"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="leadership"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/ampere"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="varietals"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="internationalPhonePrefixLabel"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="goyaAward"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="trackWidth"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="availableSmartCard"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ground"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/angolanKwanza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SportsTeamMember"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="rolandGarrosSingle"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="pictureDescription"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="eventDescription"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="governorGeneral"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="maximumInclination"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="winsAtProTournaments"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/kilometre"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/tonganPaanga"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="AustralianRulesFootballPlayer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="geminiAward"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="cousurper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Embryology"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="budget"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="rgbCoordinateRed"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/swedishKrona"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="war"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="communityIsoCode"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="skiLift"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="davisCup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="TableTennisPlayer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="firstLaunchDate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Planet/averageSpeed"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="aircraftRecon"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/milliampere"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="nonProfessionalCareer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="reportingMark"/>
+    </Declaration>
+    <Declaration>
+        <Datatype abbreviatedIRI="xsd:gYear"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="officialName"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="riverMouth"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="alpsSubgroup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Royalty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Rebellion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="HollywoodCartoon"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="code"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Spacecraft/apoapsis"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="bedCount"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/day"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Arrondissement"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Stream/minimumDischarge"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="dateAct"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="foundingYear"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="isoCode"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="University"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="strength"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="ibdbId"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/armenianDram"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="rightTributary"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="abstentions"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="humanDevelopmentIndexRank"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/canadianDollar"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="christeningDate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="fees"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="bowlRecord"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MusicalArtist"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="subdivision"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="numberOfMembers"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="spokenIn"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/milliwatt"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="discontinued"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="currencyCode"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="numberOfLocations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Cycad"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/squareDecametre"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="hasNaturalBust"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="eyes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="LiteraryGenre"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="meetingCity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="juniorTeam"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="populationDate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="towerHeight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SportsLeague"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="department"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="copilote"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Restaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SportFacility"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="cmykCoordinateYellow"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/microlitre"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="usurper"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="exhibition"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="continentalTournamentGold"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="amateurTeam"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="floorCount"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="politicalMajority"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="selectionYear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MotorsportSeason"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="creatorOfDish"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/nepaleseRupee"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="originalName"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="firstLeader"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="winsAtMajors"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="militaryRank"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Spacecraft/cargoFuel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Treaty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Muscle"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/kiloampere"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Airport"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="ecNumber"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="percentage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="forces"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="timeInSpace"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="parkingLotsCars"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/burundianFranc"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="lowest"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="unesco"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="nationalTopographicSystemMapNumber"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="MovingWalkway/weight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Model"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/swissFranc"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="startOccupation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="olympicGamesWins"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="elevatorCount"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="maximumDischarge"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/squareYard"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="work"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="historicalRegion"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="taxon"/>
+    </Declaration>
+    <Declaration>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="trackNumber"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="hairColor"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="voltageOfElectrification"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="worldTournament"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="disappearanceDate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="birthName"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="firstDriver"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/dominicanPeso"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="abstract"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="observatory"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="topFloorHeight"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="winsAtSenEuro"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="dorlandsSuffix"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="logo"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/millipond"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Work"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="subClassis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="network"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="hometown"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="landingVehicle"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="opponents"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="subPrefecture"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="crewMember"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="sourceConfluence"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="complexity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Conifer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="activeYearsStartYear"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="widthQuote"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="representative"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="inCemetery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Port"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="functionEndDate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="sourceRegion"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="awardName"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/calorie"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Infrastructure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="vicePrimeMinister"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="urbanArea"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Galaxy/meanTemperature"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="currentWorldChampion"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="greenLongDistancePisteNumber"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="visitorsPercentageChange"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/swaziLilangeni"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="militaryBranch"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="debutWork"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="wilaya"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="releaseDate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="artery"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="relatedPlaces"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="mvp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="RouteOfTransportation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="daira"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="training"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="teamManager"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/newton"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="wikidataSplitIri"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="FieldHockeyLeague"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="documentNumber"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/poundFoot"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="genomeDB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Play"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Film"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="heritageRegister"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="gnisCode"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="modelStartDate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="militaryUnit"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="causeOfDeath"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/guyanaDollar"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/Power"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="serviceEndDate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="deFactoLanguage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="draftPick"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="territory"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="feature"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="productionCompany"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="grossDomesticProductPerPeople"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Type"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/Pressure"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="refgen"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/northKoreanWon"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Software/fileSize"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Spacecraft/dockedTime"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="coachClub"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="routeLine"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="careerPrizeMoney"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="startCareer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="purchasingPowerParity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="shortProgCompetition"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/micrometre"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="previousInfrastructure"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/gigametre"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="firstGame"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="CanadianFootballPlayer"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/kilobyte"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="regentOf"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="passengersPerYear"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="refgeo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="solventWithGoodSolubility"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="locusSupplementaryData"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/squareKilometre"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="currentTeam"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/renminbi"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="unitCost"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NarutoCharacter"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="grave"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="trainerYears"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="agglomeration"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="collaboration"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="teamTitle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Winery"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="topic"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Infrastructure/length"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NaturalPlace"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="minimumElevation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="finalLostTeam"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="managingEditor"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="season"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="nobelLaureates"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="campusSize"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/kilowattHour"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="historicalMap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Vicar"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="starRating"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="speciality"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="municipalityRenamedTo"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="amateurTie"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="mergerDate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="programmeFormat"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ceremonialCounty"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="averageDepth"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="liberationDate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="cargoWater"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="whaDraft"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="SystemOfLaw"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="quotation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="party"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Architect"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="actScore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Scientist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Monarch"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="timeZone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Ocean"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="tribus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Casino"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="populationTotalReference"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="millsCodeNLVerdwenen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Hospital"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="senator"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="blazonRatio"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="meaning"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="recommissioningDate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="usSales"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Cat"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="dcc"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="elementAbove"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/newtonCentimetre"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="numberOfLaunches"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="output"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="distanceTraveled"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Gymnast"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="SpaceMission/missionDuration"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="sportSpecialty"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="britishComedyAwards"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="ElectricalSubstation"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/centralAfricanCfaFranc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Mosque"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="firstAscentPerson"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="names"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="mouthElevation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="victoryAsMgr"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="alpsGroup"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="convictionDate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="familyMember"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Horse"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="daylightSavingTimeZone"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="sire"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="launchPad"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="numberOfSeasons"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="BroadcastNetwork"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="medalist"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="dischargeAverage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="wordBefore"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="wimbledonSingle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="TelevisionEpisode"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="rankPopulation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="attorneyGeneral"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="swimmingStyle"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="On-SiteTransportation/width"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="freeDanseScore"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="topSpeed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MusicComposer"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/meganewton"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="owner"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="File"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="distanceToLondon"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="tenant"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="mirDockings"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="memberOfParliament"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="role"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="titleLanguage"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="distanceToCardiff"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Galaxy/minimumTemperature"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="oldName"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="size_v"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="championInDoubleFemale"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="sheading"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Historian"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="criteria"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="numberOfOffices"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Biomolecule"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="AutoRacingLeague"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="world"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="imdbId"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="sourceConfluencePlace"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="garrison"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="comic"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="minimumDischarge"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="solventWithMediocreSolubility"/>
+    </Declaration>
+    <Declaration>
+        <Datatype IRI="http://dbpedia.org/datatype/kilogram"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="purchasingPowerParityRank"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="wikiPageRevisionLink"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="bioclimate"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="Rocket/lowerEarthOrbitPayload"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="formerChoreographer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Windmill"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="escapeVelocity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="WaterTower"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="leaderFunction"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="note"/>
+    </Declaration>
+    <Declaration>
+        <O
