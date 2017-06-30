@@ -34077,7 +34077,7 @@ SubClassOf(:EurovisionSongContestEntry :Song)
 # Class: :Event (사건)
 
 AnnotationAssertion(rdfs:label :Event "Ereignis"@de)
-AnnotationAssertion(rdfs:label :Event "Jajajddf"@ca)
+AnnotationAssertion(rdfs:label :Event "Jajajddfjjj"@ca)
 AnnotationAssertion(rdfs:label :Event "event"@en)
 AnnotationAssertion(rdfs:label :Event "evento"@pt)
 AnnotationAssertion(rdfs:label :Event "gebeurtenis"@nl)
