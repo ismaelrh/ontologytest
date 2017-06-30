@@ -33247,7 +33247,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                   "event"@en ,
                   "evento"@pt ,
                   "gebeurtenis"@nl ,
-                  "juan"@ca ,
+                  "juan el perro"@ca ,
                   "évènement"@fr ,
                   "ócáid"@ga ,
                   "γεγονός"@el ,
