@@ -33244,10 +33244,10 @@ http://vocab.getty.edu/ulan/$1"""@en ;
        rdfs:subClassOf owl:Thing ;
        owl:disjointWith :Person ;
        rdfs:label "Ereignis"@de ,
-                  "Jajajddfjjjddfdfdasdfdd333dsadddddfasdsfafsdasdfasdf234"@ca ,
                   "event"@en ,
                   "evento"@pt ,
                   "gebeurtenis"@nl ,
+                  "juan"@ca ,
                   "évènement"@fr ,
                   "ócáid"@ga ,
                   "γεγονός"@el ,
