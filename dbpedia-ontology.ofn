@@ -34074,10 +34074,10 @@ AnnotationAssertion(rdfs:label :EurovisionSongContestEntry "Διαγωνισμό
 AnnotationAssertion(<http://www.w3.org/ns/prov#wasDerivedFrom> :EurovisionSongContestEntry <http://mappings.dbpedia.org/index.php/OntologyClass:EurovisionSongContestEntry>)
 SubClassOf(:EurovisionSongContestEntry :Song)
 
-# Class: :Event (Jajajddfjjjddfdfdasdfdsadddfasdsfafsdasdfasdf234)
+# Class: :Event (Jajajddfjjjddfdfdasdfdddsadddfasdsfafsdasdfasdf234)
 
 AnnotationAssertion(rdfs:label :Event "Ereignis"@de)
-AnnotationAssertion(rdfs:label :Event "Jajajddfjjjddfdfdasdfdsadddfasdsfafsdasdfasdf234"@ca)
+AnnotationAssertion(rdfs:label :Event "Jajajddfjjjddfdfdasdfdddsadddfasdsfafsdasdfasdf234"@ca)
 AnnotationAssertion(rdfs:label :Event "event"@en)
 AnnotationAssertion(rdfs:label :Event "evento"@pt)
 AnnotationAssertion(rdfs:label :Event "gebeurtenis"@nl)
