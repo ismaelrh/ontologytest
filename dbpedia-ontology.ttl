@@ -33244,7 +33244,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
        rdfs:subClassOf owl:Thing ;
        owl:disjointWith :Person ;
        rdfs:label "Ereignis"@de ,
-                  "Jajaj"@ca ,
+                  "Jajajddf"@ca ,
                   "event"@en ,
                   "evento"@pt ,
                   "gebeurtenis"@nl ,
