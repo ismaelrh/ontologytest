@@ -33506,7 +33506,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                  "σημαία"@el ,
                  "旗"@ja ,
                  "국기d"@ko ;
-      <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Flag> .
+      <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Flagrante> .
 
 
 ###  http://dbpedia.org/ontology/FloweringPlant

@@ -44147,7 +44147,7 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="el">σημαία</rdfs:label>
         <rdfs:label xml:lang="ja">旗</rdfs:label>
         <rdfs:label xml:lang="ko">국기d</rdfs:label>
-        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Flag"/>
+        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Flagrante"/>
     </owl:Class>
     
 

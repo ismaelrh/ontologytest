@@ -34325,7 +34325,7 @@ AnnotationAssertion(rdfs:label :Flag "vlag"@nl)
 AnnotationAssertion(rdfs:label :Flag "σημαία"@el)
 AnnotationAssertion(rdfs:label :Flag "旗"@ja)
 AnnotationAssertion(rdfs:label :Flag "국기d"@ko)
-AnnotationAssertion(<http://www.w3.org/ns/prov#wasDerivedFrom> :Flag <http://mappings.dbpedia.org/index.php/OntologyClass:Flag>)
+AnnotationAssertion(<http://www.w3.org/ns/prov#wasDerivedFrom> :Flag <http://mappings.dbpedia.org/index.php/OntologyClass:Flagrante>)
 EquivalentClasses(:Flag <http://www.wikidata.org/entity/Q14660>)
 SubClassOf(:Flag owl:Thing)
 
