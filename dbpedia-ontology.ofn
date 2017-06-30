@@ -1,4 +1,4 @@
-asdfasdfasfasfPrefix(:=<http://dbpedia.org/ontology/>)
+Prefix(:=<http://dbpedia.org/ontology/>)
 Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
 Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
 Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
@@ -34074,10 +34074,10 @@ AnnotationAssertion(rdfs:label :EurovisionSongContestEntry "Διαγωνισμό
 AnnotationAssertion(<http://www.w3.org/ns/prov#wasDerivedFrom> :EurovisionSongContestEntry <http://mappings.dbpedia.org/index.php/OntologyClass:EurovisionSongContestEntry>)
 SubClassOf(:EurovisionSongContestEntry :Song)
 
-# Class: :Event (사건)
+# Class: :Event (Jajajddfjjjddfdfdasdfdsadddfasdsfafsdasdfasdf234)
 
 AnnotationAssertion(rdfs:label :Event "Ereignis"@de)
-AnnotationAssertion(rdfs:label :Event "Jajajddfjjjddfdfdasdfdsadddfasdsfafsdasdf"@ca)
+AnnotationAssertion(rdfs:label :Event "Jajajddfjjjddfdfdasdfdsadddfasdsfafsdasdfasdf234"@ca)
 AnnotationAssertion(rdfs:label :Event "event"@en)
 AnnotationAssertion(rdfs:label :Event "evento"@pt)
 AnnotationAssertion(rdfs:label :Event "gebeurtenis"@nl)
