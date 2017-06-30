@@ -41957,7 +41957,7 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="ca">asdf</rdfs:label>
         <rdfs:label xml:lang="bn">mycasa</rdfs:label>
         <rdfs:label xml:lang="nl">plaats op de muziek hitlijst</rdfs:label>
-        <rdfs:label xml:lang="ve">tatadoscientosdsds</rdfs:label>
+        <rdfs:label xml:lang="ve">tatadoscientosdsdsasdfas</rdfs:label>
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:ChartsPlacements"/>
     </owl:Class>
     
@@ -43834,6 +43834,7 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <owl:disjointWith rdf:resource="http://dbpedia.org/ontology/Person"/>
         <rdfs:label xml:lang="de">Ereignis</rdfs:label>
+        <rdfs:label xml:lang="ca">Jajaj</rdfs:label>
         <rdfs:label xml:lang="en">event</rdfs:label>
         <rdfs:label xml:lang="pt">evento</rdfs:label>
         <rdfs:label xml:lang="nl">gebeurtenis</rdfs:label>
@@ -44145,7 +44146,7 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="nl">vlag</rdfs:label>
         <rdfs:label xml:lang="el">σημαία</rdfs:label>
         <rdfs:label xml:lang="ja">旗</rdfs:label>
-        <rdfs:label xml:lang="ko">국기</rdfs:label>
+        <rdfs:label xml:lang="ko">국기d</rdfs:label>
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Flag"/>
     </owl:Class>
     

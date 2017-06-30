@@ -31700,7 +31700,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                              "asdf"@ca ,
                              "mycasa"@bn ,
                              "plaats op de muziek hitlijst"@nl ,
-                             "tatadoscientosdsds"@ve ;
+                             "tatadoscientosdsdsasdfas"@ve ;
                   <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:ChartsPlacements> .
 
 
@@ -33244,6 +33244,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
        rdfs:subClassOf owl:Thing ;
        owl:disjointWith :Person ;
        rdfs:label "Ereignis"@de ,
+                  "Jajaj"@ca ,
                   "event"@en ,
                   "evento"@pt ,
                   "gebeurtenis"@nl ,
@@ -33504,7 +33505,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                  "vlag"@nl ,
                  "σημαία"@el ,
                  "旗"@ja ,
-                 "국기"@ko ;
+                 "국기d"@ko ;
       <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Flag> .
 
 
