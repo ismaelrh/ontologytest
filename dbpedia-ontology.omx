@@ -43328,7 +43328,7 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="el">ασθένεια</rdfs:label>
         <rdfs:label xml:lang="ja">病気</rdfs:label>
         <rdfs:label xml:lang="ko">질병</rdfs:label>
-        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Disease"/>
+        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedf"/>
     </owl:Class>
     
 
@@ -54655,19 +54655,19 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
      -->
 
     <rdf:Description rdf:about="http://dbpedia.org/ontology/Department">
-        <rdfs:label xml:lang="de">Distrikt</rdfs:label>
         <rdfs:label xml:lang="nl">departement</rdfs:label>
+        <rdfs:label xml:lang="de">Distrikt</rdfs:label>
         <rdfs:label xml:lang="fr">département</rdfs:label>
         <rdfs:label xml:lang="en">department</rdfs:label>
         <rdfs:label xml:lang="el">τμήμα</rdfs:label>
         <rdfs:label xml:lang="ko">부서</rdfs:label>
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Department"/>
-        <rdfs:label xml:lang="ga">roinn</rdfs:label>
         <rdfs:label xml:lang="es">Distrito</rdfs:label>
+        <rdfs:label xml:lang="ga">roinn</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://dbpedia.org/ontology/MemberOfParliament">
-        <rdfs:label xml:lang="en">member of parliament</rdfs:label>
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:MemberOfParliament"/>
+        <rdfs:label xml:lang="en">member of parliament</rdfs:label>
         <rdfs:label xml:lang="nl">parlementslid</rdfs:label>
         <rdfs:label xml:lang="fr">membre du Parlement</rdfs:label>
         <rdfs:label xml:lang="de">Parlamentsmitglied</rdfs:label>
@@ -54682,9 +54682,9 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="el">όνομα</rdfs:label>
         <rdfs:label xml:lang="nl">naam</rdfs:label>
         <rdfs:label xml:lang="en">name</rdfs:label>
-        <rdfs:label xml:lang="pl">nazwa</rdfs:label>
-        <rdfs:label xml:lang="ga">ainm</rdfs:label>
         <rdfs:label xml:lang="pt">nome</rdfs:label>
+        <rdfs:label xml:lang="ga">ainm</rdfs:label>
+        <rdfs:label xml:lang="pl">nazwa</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://dbpedia.org/ontology/ingredientName">
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyProperty:ingredientName"/>

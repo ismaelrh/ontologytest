@@ -32832,7 +32832,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                     "ασθένεια"@el ,
                     "病気"@ja ,
                     "질병"@ko ;
-         <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Disease> .
+         <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedf> .
 
 
 ###  http://dbpedia.org/ontology/DisneyCharacter
@@ -41704,20 +41704,20 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 #    Annotations
 #################################################################
 
-:Department rdfs:label "Distrikt"@de ,
-                       "departement"@nl ,
+:Department rdfs:label "departement"@nl ,
+                       "Distrikt"@de ,
                        "département"@fr ,
                        "department"@en ,
                        "τμήμα"@el ,
                        "부서"@ko ;
             <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Department> ;
-            rdfs:label "roinn"@ga ,
-                       "Distrito"@es .
+            rdfs:label "Distrito"@es ,
+                       "roinn"@ga .
 
 
-:MemberOfParliament rdfs:label "member of parliament"@en ;
-                    <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:MemberOfParliament> ;
-                    rdfs:label "parlementslid"@nl ,
+:MemberOfParliament <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:MemberOfParliament> ;
+                    rdfs:label "member of parliament"@en ,
+                               "parlementslid"@nl ,
                                "membre du Parlement"@fr ,
                                "Parlamentsmitglied"@de ,
                                "Μέλος κοινοβουλίου"@el ,
@@ -41731,9 +41731,9 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                  "όνομα"@el ,
                  "naam"@nl ,
                  "name"@en ,
-                 "nazwa"@pl ,
+                 "nome"@pt ,
                  "ainm"@ga ,
-                 "nome"@pt .
+                 "nazwa"@pl .
 
 
 :ingredientName <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyProperty:ingredientName> ;
