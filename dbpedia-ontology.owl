@@ -43328,7 +43328,7 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="el">ασθένεια</rdfs:label>
         <rdfs:label xml:lang="ja">病気</rdfs:label>
         <rdfs:label xml:lang="ko">질병</rdfs:label>
-        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedfasfa"/>
+        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedfasfad"/>
     </owl:Class>
     
 
