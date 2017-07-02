@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://dbpedia.org/ontology/"
      xml:base="http://dbpedia.org/ontology/"
-     xmlns:webprotege="http://webprotege.stanford.edu/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -46,22 +45,6 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    
-
-
-    <!-- http://webprotege.stanford.edu/R93gyFsDq4SbrDp87aiINVj -->
-
-    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R93gyFsDq4SbrDp87aiINVj">
-        <rdfs:label>ja</rdfs:label>
-    </owl:AnnotationProperty>
-    
-
-
-    <!-- http://webprotege.stanford.edu/R9BCVZ0m8OcSdZIyqBtCGWp -->
-
-    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R9BCVZ0m8OcSdZIyqBtCGWp">
-        <rdfs:label>jaja</rdfs:label>
-    </owl:AnnotationProperty>
     
 
 
@@ -39362,14 +39345,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
     
 
 
-    <!-- http://webprotege.stanford.edu/R8piFQcDivgaGPyephzxvZe -->
-
-    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8piFQcDivgaGPyephzxvZe">
-        <rdfs:label>No</rdfs:label>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -39491,7 +39466,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="en">activity</rdfs:label>
         <rdfs:label xml:lang="fr">activité</rdfs:label>
         <rdfs:label xml:lang="pl">aktywność</rdfs:label>
-        <rdfs:label xml:lang="ca">asfdasdf</rdfs:label>
         <rdfs:label xml:lang="pt">atividade</rdfs:label>
         <rdfs:label xml:lang="it">attività</rdfs:label>
         <rdfs:label xml:lang="ga">gníomhaíocht</rdfs:label>
@@ -40583,13 +40557,10 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <owl:equivalentClass rdf:resource="http://www.wikidata.org/entity/Q618779"/>
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <rdfs:label xml:lang="de">Auszeichnung</rdfs:label>
-        <rdfs:label xml:lang="ma">Mathew</rdfs:label>
-        <rdfs:label xml:lang="su">Suajili</rdfs:label>
         <rdfs:label xml:lang="en">award</rdfs:label>
         <rdfs:label xml:lang="ga">gradam</rdfs:label>
         <rdfs:label xml:lang="sl">nagrada</rdfs:label>
         <rdfs:label xml:lang="pl">nagroda</rdfs:label>
-        <rdfs:label xml:lang="en">premiado</rdfs:label>
         <rdfs:label xml:lang="it">premio</rdfs:label>
         <rdfs:label xml:lang="nl">prijs</rdfs:label>
         <rdfs:label xml:lang="fr">récompense</rdfs:label>
@@ -41013,8 +40984,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <rdfs:comment xml:lang="nl">Een molecuul wat van nature voorkomt in een organisme en gevormd kan worden door organismen.</rdfs:comment>
         <rdfs:comment xml:lang="en">equivalent to http://ccdb.ucsd.edu/NIF/BIRNLex-OBO-UBO.owl#birnlex_22.</rdfs:comment>
-        <rdfs:comment xml:lang="ca">hi</rdfs:comment>
-        <rdfs:comment xml:lang="ca">mama</rdfs:comment>
         <rdfs:comment xml:lang="el">Κάθε μόριο που παράγεται σε έναν ζωντανό οργανισμό. Συνήθως μεγαλομοριακές ενώσεις που χρησιμεύουν στην δομή και στο μεταβολισμό του κυττάρου. Πρωτεΐνες, νουκλεϊνικά οξέα, υδατάνθρακες και λιπίδια.</rdfs:comment>
         <rdfs:label xml:lang="en">Biomolecule</rdfs:label>
         <rdfs:label xml:lang="nl">Biomolecuul</rdfs:label>
@@ -41954,10 +41923,7 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <rdfs:label xml:lang="de">Chartplatzierungen</rdfs:label>
         <rdfs:label xml:lang="en">Place in the Music Charts</rdfs:label>
-        <rdfs:label xml:lang="ca">asdf</rdfs:label>
-        <rdfs:label xml:lang="bn">mycasa</rdfs:label>
         <rdfs:label xml:lang="nl">plaats op de muziek hitlijst</rdfs:label>
-        <rdfs:label xml:lang="ve">tatadoscientosdsdsasdfas</rdfs:label>
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:ChartsPlacements"/>
     </owl:Class>
     
@@ -42058,7 +42024,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="el">χημική ουσία</rdfs:label>
         <rdfs:label xml:lang="ja">化学物質</rdfs:label>
         <rdfs:label xml:lang="ko">화학 물질</rdfs:label>
-        <rdfs:seeAlso xml:lang="ca">aja</rdfs:seeAlso>
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:ChemicalSubstance"/>
     </owl:Class>
     
@@ -42378,7 +42343,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
     <owl:Class rdf:about="http://dbpedia.org/ontology/Colour">
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <rdfs:comment xml:lang="en">Color or colour is the visual perceptual property corresponding in humans to the categories called red, yellow, blue and others. Color derives from the spectrum of light (distribution of light energy versus wavelength) interacting in the eye with the spectral sensitivities of the light receptors.</rdfs:comment>
-        <rdfs:comment xml:lang="ca">Trytthinaf</rdfs:comment>
         <rdfs:label xml:lang="de">Farbe</rdfs:label>
         <rdfs:label xml:lang="en">colour</rdfs:label>
         <rdfs:label xml:lang="pt">cor</rdfs:label>
@@ -43271,7 +43235,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
 
     <owl:Class rdf:about="http://dbpedia.org/ontology/Device">
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-        <rdfs:label xml:lang="ca">Caca</rdfs:label>
         <rdfs:label xml:lang="de">Gerät</rdfs:label>
         <rdfs:label xml:lang="nl">apparaat</rdfs:label>
         <rdfs:label xml:lang="fr">appareil</rdfs:label>
@@ -43376,7 +43339,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/FictionalCharacter"/>
         <rdfs:label xml:lang="de">Disneyfigur</rdfs:label>
         <rdfs:label xml:lang="nl">Disneyfiguur</rdfs:label>
-        <rdfs:label xml:lang="es">WTF</rdfs:label>
         <rdfs:label xml:lang="ga">carachtar Disney</rdfs:label>
         <rdfs:label xml:lang="en">disney character</rdfs:label>
         <rdfs:label xml:lang="el">χαρακτήρες της ντίσνευ</rdfs:label>
@@ -43616,7 +43578,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
 
     <owl:Class rdf:about="http://dbpedia.org/ontology/ElectionDiagram">
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-        <webprotege:R93gyFsDq4SbrDp87aiINVj xml:lang="ja">ja</webprotege:R93gyFsDq4SbrDp87aiINVj>
         <rdfs:label xml:lang="en">Election Diagram</rdfs:label>
         <rdfs:label xml:lang="de">Wahldiagram</rdfs:label>
         <rdfs:label xml:lang="nl">verkiezingen diagram</rdfs:label>
@@ -43643,7 +43604,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
     <owl:Class rdf:about="http://dbpedia.org/ontology/Embryology">
         <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/AnatomicalStructure"/>
         <rdfs:label xml:lang="de">Embryologie</rdfs:label>
-        <rdfs:label xml:lang="ca">Escola noiii</rdfs:label>
         <rdfs:label xml:lang="fr">embryologie</rdfs:label>
         <rdfs:label xml:lang="nl">embryologie</rdfs:label>
         <rdfs:label xml:lang="en">embryology</rdfs:label>
@@ -43837,7 +43797,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="en">event</rdfs:label>
         <rdfs:label xml:lang="pt">evento</rdfs:label>
         <rdfs:label xml:lang="nl">gebeurtenis</rdfs:label>
-        <rdfs:label xml:lang="ca">juan el perro verde y azul23335445</rdfs:label>
         <rdfs:label xml:lang="fr">évènement</rdfs:label>
         <rdfs:label xml:lang="ga">ócáid</rdfs:label>
         <rdfs:label xml:lang="el">γεγονός</rdfs:label>
@@ -44146,8 +44105,8 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="nl">vlag</rdfs:label>
         <rdfs:label xml:lang="el">σημαία</rdfs:label>
         <rdfs:label xml:lang="ja">旗</rdfs:label>
-        <rdfs:label xml:lang="ko">국기d</rdfs:label>
-        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Flagrante"/>
+        <rdfs:label xml:lang="ko">국기</rdfs:label>
+        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Flag"/>
     </owl:Class>
     
 
@@ -46026,7 +45985,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <rdfs:comment xml:lang="en">A general list of items.</rdfs:comment>
         <rdfs:comment xml:lang="nl">Een geordende verzameling objecten.</rdfs:comment>
-        <rdfs:comment xml:lang="asddf">JAja</rdfs:comment>
         <rdfs:comment xml:lang="fr">une liste d&apos;éléments.</rdfs:comment>
         <rdfs:comment xml:lang="el">Μια γενική λίστα από αντικείμενα.</rdfs:comment>
         <rdfs:label xml:lang="de">Liste</rdfs:label>
@@ -46357,7 +46315,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
     <owl:Class rdf:about="http://dbpedia.org/ontology/Medicine">
         <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <rdfs:comment xml:lang="en">The science and art of healing the human body and identifying the causes of disease</rdfs:comment>
-        <rdfs:comment xml:lang="ca">pushandpulllikeamagnetdo</rdfs:comment>
         <rdfs:label xml:lang="en">Medicine</rdfs:label>
         <rdfs:label xml:lang="de">Medizin</rdfs:label>
         <rdfs:label xml:lang="nl">geneeskunde</rdfs:label>
@@ -52618,22 +52575,6 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
     
 
 
-    <!-- http://webprotege.stanford.edu/RBy8JqRg9fbWOdOf1FdEffq -->
-
-    <owl:Class rdf:about="http://webprotege.stanford.edu/RBy8JqRg9fbWOdOf1FdEffq">
-        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Embryology"/>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8piFQcDivgaGPyephzxvZe"/>
-                <owl:someValuesFrom rdf:resource="http://dbpedia.org/datatype/engineConfiguration"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <webprotege:R9BCVZ0m8OcSdZIyqBtCGWp rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jaja</webprotege:R9BCVZ0m8OcSdZIyqBtCGWp>
-        <rdfs:label>Test</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.ontologydesignpatterns.org/ont/d0.owl#Activity -->
 
     <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/d0.owl#Activity"/>
@@ -54714,19 +54655,19 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
      -->
 
     <rdf:Description rdf:about="http://dbpedia.org/ontology/Department">
-        <rdfs:label xml:lang="nl">departement</rdfs:label>
         <rdfs:label xml:lang="de">Distrikt</rdfs:label>
+        <rdfs:label xml:lang="nl">departement</rdfs:label>
         <rdfs:label xml:lang="fr">département</rdfs:label>
         <rdfs:label xml:lang="en">department</rdfs:label>
         <rdfs:label xml:lang="el">τμήμα</rdfs:label>
         <rdfs:label xml:lang="ko">부서</rdfs:label>
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:Department"/>
-        <rdfs:label xml:lang="es">Distrito</rdfs:label>
         <rdfs:label xml:lang="ga">roinn</rdfs:label>
+        <rdfs:label xml:lang="es">Distrito</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://dbpedia.org/ontology/MemberOfParliament">
-        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:MemberOfParliament"/>
         <rdfs:label xml:lang="en">member of parliament</rdfs:label>
+        <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyClass:MemberOfParliament"/>
         <rdfs:label xml:lang="nl">parlementslid</rdfs:label>
         <rdfs:label xml:lang="fr">membre du Parlement</rdfs:label>
         <rdfs:label xml:lang="de">Parlamentsmitglied</rdfs:label>
@@ -54741,9 +54682,9 @@ http://vocab.getty.edu/ulan/$1</rdfs:comment>
         <rdfs:label xml:lang="el">όνομα</rdfs:label>
         <rdfs:label xml:lang="nl">naam</rdfs:label>
         <rdfs:label xml:lang="en">name</rdfs:label>
-        <rdfs:label xml:lang="pt">nome</rdfs:label>
-        <rdfs:label xml:lang="ga">ainm</rdfs:label>
         <rdfs:label xml:lang="pl">nazwa</rdfs:label>
+        <rdfs:label xml:lang="ga">ainm</rdfs:label>
+        <rdfs:label xml:lang="pt">nome</rdfs:label>
     </rdf:Description>
     <rdf:Description rdf:about="http://dbpedia.org/ontology/ingredientName">
         <prov:wasDerivedFrom rdf:resource="http://mappings.dbpedia.org/index.php/OntologyProperty:ingredientName"/>

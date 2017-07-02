@@ -33,16 +33,6 @@
 #    Annotation properties
 #################################################################
 
-###  http://webprotege.stanford.edu/R93gyFsDq4SbrDp87aiINVj
-<http://webprotege.stanford.edu/R93gyFsDq4SbrDp87aiINVj> rdf:type owl:AnnotationProperty ;
-                                                         rdfs:label "ja" .
-
-
-###  http://webprotege.stanford.edu/R9BCVZ0m8OcSdZIyqBtCGWp
-<http://webprotege.stanford.edu/R9BCVZ0m8OcSdZIyqBtCGWp> rdf:type owl:AnnotationProperty ;
-                                                         rdfs:label "jaja" .
-
-
 ###  http://www.w3.org/ns/prov#wasDerivedFrom
 <http://www.w3.org/ns/prov#wasDerivedFrom> rdf:type owl:AnnotationProperty .
 
@@ -29525,11 +29515,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                                                       "διάρκεια (m)"@el .
 
 
-###  http://webprotege.stanford.edu/R8piFQcDivgaGPyephzxvZe
-<http://webprotege.stanford.edu/R8piFQcDivgaGPyephzxvZe> rdf:type owl:DatatypeProperty ;
-                                                         rdfs:label "No" .
-
-
 #################################################################
 #    Classes
 #################################################################
@@ -29631,7 +29616,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                      "activity"@en ,
                      "activité"@fr ,
                      "aktywność"@pl ,
-                     "asfdasdf"@ca ,
                      "atividade"@pt ,
                      "attività"@it ,
                      "gníomhaíocht"@ga ,
@@ -30555,13 +30539,10 @@ http://vocab.getty.edu/ulan/$1"""@en ;
        owl:equivalentClass <http://www.wikidata.org/entity/Q618779> ;
        rdfs:subClassOf owl:Thing ;
        rdfs:label "Auszeichnung"@de ,
-                  "Mathew"@ma ,
-                  "Suajili"@su ,
                   "award"@en ,
                   "gradam"@ga ,
                   "nagrada"@sl ,
                   "nagroda"@pl ,
-                  "premiado"@en ,
                   "premio"@it ,
                   "prijs"@nl ,
                   "récompense"@fr ,
@@ -30914,8 +30895,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
              rdfs:subClassOf owl:Thing ;
              rdfs:comment "Een molecuul wat van nature voorkomt in een organisme en gevormd kan worden door organismen."@nl ,
                           "equivalent to http://ccdb.ucsd.edu/NIF/BIRNLex-OBO-UBO.owl#birnlex_22."@en ,
-                          "hi"@ca ,
-                          "mama"@ca ,
                           "Κάθε μόριο που παράγεται σε έναν ζωντανό οργανισμό. Συνήθως μεγαλομοριακές ενώσεις που χρησιμεύουν στην δομή και στο μεταβολισμό του κυττάρου. Πρωτεΐνες, νουκλεϊνικά οξέα, υδατάνθρακες και λιπίδια."@el ;
              rdfs:label "Biomolecule"@en ,
                         "Biomolecuul"@nl ,
@@ -31697,10 +31676,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                   rdfs:subClassOf owl:Thing ;
                   rdfs:label "Chartplatzierungen"@de ,
                              "Place in the Music Charts"@en ,
-                             "asdf"@ca ,
-                             "mycasa"@bn ,
-                             "plaats op de muziek hitlijst"@nl ,
-                             "tatadoscientosdsdsasdfas"@ve ;
+                             "plaats op de muziek hitlijst"@nl ;
                   <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:ChartsPlacements> .
 
 
@@ -31786,7 +31762,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                               "χημική ουσία"@el ,
                               "化学物質"@ja ,
                               "화학 물질"@ko ;
-                   rdfs:seeAlso "aja"@ca ;
                    <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:ChemicalSubstance> .
 
 
@@ -32048,8 +32023,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 ###  http://dbpedia.org/ontology/Colour
 :Colour rdf:type owl:Class ;
         rdfs:subClassOf owl:Thing ;
-        rdfs:comment "Color or colour is the visual perceptual property corresponding in humans to the categories called red, yellow, blue and others. Color derives from the spectrum of light (distribution of light energy versus wavelength) interacting in the eye with the spectral sensitivities of the light receptors."@en ,
-                     "Trytthinaf"@ca ;
+        rdfs:comment "Color or colour is the visual perceptual property corresponding in humans to the categories called red, yellow, blue and others. Color derives from the spectrum of light (distribution of light energy versus wavelength) interacting in the eye with the spectral sensitivities of the light receptors."@en ;
         rdfs:label "Farbe"@de ,
                    "colour"@en ,
                    "cor"@pt ,
@@ -32780,8 +32754,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 ###  http://dbpedia.org/ontology/Device
 :Device rdf:type owl:Class ;
         rdfs:subClassOf owl:Thing ;
-        rdfs:label "Caca"@ca ,
-                   "Gerät"@de ,
+        rdfs:label "Gerät"@de ,
                    "apparaat"@nl ,
                    "appareil"@fr ,
                    "device"@en ,
@@ -32867,7 +32840,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                  rdfs:subClassOf :FictionalCharacter ;
                  rdfs:label "Disneyfigur"@de ,
                             "Disneyfiguur"@nl ,
-                            "WTF"@es ,
                             "carachtar Disney"@ga ,
                             "disney character"@en ,
                             "χαρακτήρες της ντίσνευ"@el ;
@@ -33065,7 +33037,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 ###  http://dbpedia.org/ontology/ElectionDiagram
 :ElectionDiagram rdf:type owl:Class ;
                  rdfs:subClassOf owl:Thing ;
-                 <http://webprotege.stanford.edu/R93gyFsDq4SbrDp87aiINVj> "ja"@ja ;
                  rdfs:label "Election Diagram"@en ,
                             "Wahldiagram"@de ,
                             "verkiezingen diagram"@nl ,
@@ -33086,7 +33057,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 :Embryology rdf:type owl:Class ;
             rdfs:subClassOf :AnatomicalStructure ;
             rdfs:label "Embryologie"@de ,
-                       "Escola noiii"@ca ,
                        "embryologie"@fr ,
                        "embryologie"@nl ,
                        "embryology"@en ,
@@ -33247,7 +33217,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                   "event"@en ,
                   "evento"@pt ,
                   "gebeurtenis"@nl ,
-                  "juan el perro verde y azul23335445"@ca ,
                   "évènement"@fr ,
                   "ócáid"@ga ,
                   "γεγονός"@el ,
@@ -33505,8 +33474,8 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                  "vlag"@nl ,
                  "σημαία"@el ,
                  "旗"@ja ,
-                 "국기d"@ko ;
-      <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Flagrante> .
+                 "국기"@ko ;
+      <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Flag> .
 
 
 ###  http://dbpedia.org/ontology/FloweringPlant
@@ -35035,7 +35004,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
       rdfs:subClassOf owl:Thing ;
       rdfs:comment "A general list of items."@en ,
                    "Een geordende verzameling objecten."@nl ,
-                   "JAja"@asddf ,
                    "une liste d'éléments."@fr ,
                    "Μια γενική λίστα από αντικείμενα."@el ;
       rdfs:label "Liste"@de ,
@@ -35305,8 +35273,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 ###  http://dbpedia.org/ontology/Medicine
 :Medicine rdf:type owl:Class ;
           rdfs:subClassOf owl:Thing ;
-          rdfs:comment "The science and art of healing the human body and identifying the causes of disease"@en ,
-                       "pushandpulllikeamagnetdo"@ca ;
+          rdfs:comment "The science and art of healing the human body and identifying the causes of disease"@en ;
           rdfs:label "Medicine"@en ,
                      "Medizin"@de ,
                      "geneeskunde"@nl ,
@@ -40356,17 +40323,6 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 <http://schema.org/WebPage> rdf:type owl:Class .
 
 
-###  http://webprotege.stanford.edu/RBy8JqRg9fbWOdOf1FdEffq
-<http://webprotege.stanford.edu/RBy8JqRg9fbWOdOf1FdEffq> rdf:type owl:Class ;
-                                                         rdfs:subClassOf :Embryology ,
-                                                                         [ rdf:type owl:Restriction ;
-                                                                           owl:onProperty <http://webprotege.stanford.edu/R8piFQcDivgaGPyephzxvZe> ;
-                                                                           owl:someValuesFrom <http://dbpedia.org/datatype/engineConfiguration>
-                                                                         ] ;
-                                                         <http://webprotege.stanford.edu/R9BCVZ0m8OcSdZIyqBtCGWp> "jaja"^^xsd:string ;
-                                                         rdfs:label "Test" .
-
-
 ###  http://www.ontologydesignpatterns.org/ont/d0.owl#Activity
 <http://www.ontologydesignpatterns.org/ont/d0.owl#Activity> rdf:type owl:Class .
 
@@ -41748,20 +41704,20 @@ http://vocab.getty.edu/ulan/$1"""@en ;
 #    Annotations
 #################################################################
 
-:Department rdfs:label "departement"@nl ,
-                       "Distrikt"@de ,
+:Department rdfs:label "Distrikt"@de ,
+                       "departement"@nl ,
                        "département"@fr ,
                        "department"@en ,
                        "τμήμα"@el ,
                        "부서"@ko ;
             <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Department> ;
-            rdfs:label "Distrito"@es ,
-                       "roinn"@ga .
+            rdfs:label "roinn"@ga ,
+                       "Distrito"@es .
 
 
-:MemberOfParliament <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:MemberOfParliament> ;
-                    rdfs:label "member of parliament"@en ,
-                               "parlementslid"@nl ,
+:MemberOfParliament rdfs:label "member of parliament"@en ;
+                    <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:MemberOfParliament> ;
+                    rdfs:label "parlementslid"@nl ,
                                "membre du Parlement"@fr ,
                                "Parlamentsmitglied"@de ,
                                "Μέλος κοινοβουλίου"@el ,
@@ -41775,9 +41731,9 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                  "όνομα"@el ,
                  "naam"@nl ,
                  "name"@en ,
-                 "nome"@pt ,
+                 "nazwa"@pl ,
                  "ainm"@ga ,
-                 "nazwa"@pl .
+                 "nome"@pt .
 
 
 :ingredientName <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyProperty:ingredientName> ;
