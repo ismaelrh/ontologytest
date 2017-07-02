@@ -32832,7 +32832,7 @@ http://vocab.getty.edu/ulan/$1"""@en ;
                     "ασθένεια"@el ,
                     "病気"@ja ,
                     "질병"@ko ;
-         <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedfasf> .
+         <http://www.w3.org/ns/prov#wasDerivedFrom> <http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedfasfa> .
 
 
 ###  http://dbpedia.org/ontology/DisneyCharacter

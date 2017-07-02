@@ -33691,7 +33691,7 @@ AnnotationAssertion(rdfs:label :Disease "ziekte"@nl)
 AnnotationAssertion(rdfs:label :Disease "ασθένεια"@el)
 AnnotationAssertion(rdfs:label :Disease "病気"@ja)
 AnnotationAssertion(rdfs:label :Disease "질병"@ko)
-AnnotationAssertion(<http://www.w3.org/ns/prov#wasDerivedFrom> :Disease <http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedfasf>)
+AnnotationAssertion(<http://www.w3.org/ns/prov#wasDerivedFrom> :Disease <http://mappings.dbpedia.org/index.php/OntologyClass:Diseasedfasfa>)
 EquivalentClasses(:Disease <http://www.wikidata.org/entity/Q12136>)
 SubClassOf(:Disease owl:Thing)
 
